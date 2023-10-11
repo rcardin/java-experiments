@@ -1,7 +1,5 @@
 package in.rcard.values;
 
-import java.util.Objects;
-
 public value class BarCode {
   private long code;
 
